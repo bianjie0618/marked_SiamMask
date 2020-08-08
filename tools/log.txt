@@ -1,0 +1,72 @@
+[2020-06-13 15:45:06,485-rk0-train_siammask_refine.py#123] 
+PyTorch version: 1.0.0
+Is debug build: No
+CUDA used to build PyTorch: 10.0.130
+
+OS: Ubuntu 18.04.4 LTS
+GCC version: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+CMake version: version 3.10.2
+
+Python version: 3.6
+Is CUDA available: Yes
+CUDA runtime version: Could not collect
+GPU models and configuration: GPU 0: GeForce RTX 2060
+Nvidia driver version: 435.21
+cuDNN version: Probably one of the following:
+/usr/lib/x86_64-linux-gnu/libcudnn.so.7.6.5
+/usr/lib/x86_64-linux-gnu/libcudnn_static_v7.a
+
+Versions of relevant libraries:
+[pip3] torch (1.0.0)
+[conda] torch                     1.0.0                    pypi_0    pypi
+[conda] torchvision               0.2.1                    pypi_0    pypi
+        OpenCV (3.4.3)
+[2020-06-13 15:45:06,485-rk0-train_siammask_refine.py#124] Namespace(arch='', batch=64, clip=10.0, config='config.json', epochs=20, log='log.txt', log_dir='board', lr=0.001, momentum=0.9, pretrained='True', print_freq=10, resume='', save_dir='snapshot', start_epoch=0, weight_decay=0.0001, workers=20)
+[2020-06-13 15:47:22,997-rk0-train_siammask_refine.py#123] 
+PyTorch version: 1.0.0
+Is debug build: No
+CUDA used to build PyTorch: 10.0.130
+
+OS: Ubuntu 18.04.4 LTS
+GCC version: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+CMake version: version 3.10.2
+
+Python version: 3.6
+Is CUDA available: Yes
+CUDA runtime version: Could not collect
+GPU models and configuration: GPU 0: GeForce RTX 2060
+Nvidia driver version: 435.21
+cuDNN version: Probably one of the following:
+/usr/lib/x86_64-linux-gnu/libcudnn.so.7.6.5
+/usr/lib/x86_64-linux-gnu/libcudnn_static_v7.a
+
+Versions of relevant libraries:
+[pip3] torch (1.0.0)
+[conda] torch                     1.0.0                    pypi_0    pypi
+[conda] torchvision               0.2.1                    pypi_0    pypi
+        OpenCV (3.4.3)
+[2020-06-13 15:47:22,997-rk0-train_siammask_refine.py#124] Namespace(arch='', batch=64, clip=10.0, config='config.json', epochs=20, log='log.txt', log_dir='board', lr=0.001, momentum=0.9, pretrained='True', print_freq=10, resume='', save_dir='snapshot', start_epoch=0, weight_decay=0.0001, workers=20)
+[2020-06-13 15:50:51,599-rk0-train_siammask_refine.py#123] 
+PyTorch version: 1.0.0
+Is debug build: No
+CUDA used to build PyTorch: 10.0.130
+
+OS: Ubuntu 18.04.4 LTS
+GCC version: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+CMake version: version 3.10.2
+
+Python version: 3.6
+Is CUDA available: Yes
+CUDA runtime version: Could not collect
+GPU models and configuration: GPU 0: GeForce RTX 2060
+Nvidia driver version: 435.21
+cuDNN version: Probably one of the following:
+/usr/lib/x86_64-linux-gnu/libcudnn.so.7.6.5
+/usr/lib/x86_64-linux-gnu/libcudnn_static_v7.a
+
+Versions of relevant libraries:
+[pip3] torch (1.0.0)
+[conda] torch                     1.0.0                    pypi_0    pypi
+[conda] torchvision               0.2.1                    pypi_0    pypi
+        OpenCV (3.4.3)
+[2020-06-13 15:50:51,599-rk0-train_siammask_refine.py#124] Namespace(arch='', batch=64, clip=10.0, config='config.json', epochs=20, log='log.txt', log_dir='board', lr=0.001, momentum=0.9, pretrained='True', print_freq=10, resume='', save_dir='snapshot', start_epoch=0, weight_decay=0.0001, workers=20)
